@@ -1,0 +1,3 @@
+export const METHOD_IDENTIFERS = {
+  SWAP_EXACT_TOKENS_FOR_TOKENS: "0x38ed1739",
+};
